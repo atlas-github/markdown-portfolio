@@ -1,1 +1,7 @@
-Replace this with your name, and include a header.
+# Experiment
+
+This page is for experimenting
+
+## Northern Lights
+
+This experiment is about auroras
